@@ -2,6 +2,8 @@
 ## Summary
 iOS mobile developer with extensive experience in designing, programming, maintaining, and troubleshooting applications in agile team environments. Self-motivated professional who is passionate about learning emerging technologies in the mobile landscape, architectures, and trends. Great at team work, as well as agile methodology and always test and write clean stable code with documentation. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookie777)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Skills
 
@@ -18,7 +20,6 @@ iOS mobile developer with extensive experience in designing, programming, mainta
 - Familiar with Apple’s Human Interface Guidelines.  
 
 ## Work Experience
-
 ### Full stack iOS developer / iOS game app
 
 *Self-employed / Canada, Vancouver / March 1st 2021 - current*
@@ -58,16 +59,6 @@ iOS mobile developer with extensive experience in designing, programming, mainta
 - Checked on all source code to ensure usability by development staff. 
 
 ## Education 
-
-### [Cornerstone International Community College of Canada](https://ciccc.ca/)
-
-*Vancouver, Canada / Sep 2020 – Sep 2021*
-
-- Committing iOS projects collaborating with other developers.
-- Learning Unit-testing code considering robustness, edge cases, and usability.
-- Learning Concurrency, Memory management, RxSwift, MVVM architectures, and Objective-C.
-- Learning Unit-testing code considering robustness, edge cases, and usability.
-
 
 ### [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html)
 
