@@ -8,7 +8,7 @@ iOS mobile developer with extensive experience in designing, programming, mainta
 ## Skills
 
 ✔ iOS:　　　　　Swift, Objective-C</br>
-✔ Back-end:　　Java, Python3</br>
+✔ Back-end:　　Java, Python3, AWS</br>
 ✔ Front-end:　　Next.js, React.js</br>
 
 - Writing Swift full-time for iOS development. 
