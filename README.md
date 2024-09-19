@@ -1,25 +1,8 @@
 
 ## Summary
-iOS mobile developer with extensive experience in designing, programming, maintaining, and troubleshooting applications in agile team environments. Great at teamwork, as well as agile methodology and always test and write clean stable code with documentation. 
+I am a Full-Stack Developer with expertise in front-end and back-end development, with hands-on experience in API services, memory management, multi-threading, and object-oriented programming. I quickly adapt to new technologies and excel in collaborating with teams, leveraging my strong communication skills, taking on challenging projects with a focus on innovation and self-direction.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookie777)](https://github.com/anuraghazra/github-readme-stats)
-
-## App Store
-
-Published a native iOS app to [App Store](https://apps.apple.com/us/app/queens-game/id1575671780)
-
-## Education 
-
-### Master & Bachelor degree of Computer Sciences. 
-#### [Tokyo Metropolitan University](https://www.tmu.ac.jp/english/index.html)
-
-*Tokyo, Japan / April 2010 – March 2014, April 2014 – March 2016*
-- Specialized in software systems and information & Data visualization. GPA 3.3/4.0 
-
-## Skills
-✔ iOS: Swift, Objective-C		✔ Back-end: Java, Python3	✔ Front-end: Next.js, React.js  
-- A good understanding of mobile framework: UIKit, Cocoa Touch, RxSwift, diffable datasource 
-- A good understanding of various mobile architectural patterns: MV*, VIPER and OOP 
-- Familiarity with CoreData or Realm for data persistence 
-- Understanding of networking and REST APIs and experience creating APIs with AWS. 
-- Familiar with Apple’s Human Interface Guidelines. 
+**Back-End**: AWS, SQL, Firebase, Google Cloud, Java, Kotlin, Epress.js, NoSQL </br>
+**Back-End Tools**: Git, Docker, IntelliJ, XCode, VSCode, GitHub Actions (CI/CD), Jira, Figma </br>
+**Web Front-End**: React.js, Next.js, Node.js, JavaScript, TypeScript, HTML/CSS, Tailwind CSS </br>
+**Mobile Front-End**: Swift, SwiftUI, UIKit, Kotlin, Jetpack Compose, Xcode, Android Studio
